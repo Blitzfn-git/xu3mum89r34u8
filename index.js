@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["YouTube: BlitzFN","Twitch: BLitz_Chef","","Website: https://bit.ly/blitzfnweb "];
+const statusMessages = ["YouTube: BlitzFN","Twitch: Blitz_Chef","","Website: https://bit.ly/blitzfnweb "];
 
 
 let currentIndex = 0;
