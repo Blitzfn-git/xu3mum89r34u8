@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Voxo Studios","Get Started With /help","Your Discord Developement Buddy","voxo01.github.io/bot","Use Code VOXOV30R"];
+const statusMessages = ["YouTube: BlitzFN","Twitch: BLitz_Chef","","Website: https://bit.ly/blitzfnweb "];
 
 
 let currentIndex = 0;
